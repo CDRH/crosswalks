@@ -4,7 +4,7 @@
 
     <!-- 
         ***********************************************************************************
-        Copyright &#xa9; 2008 The Board of Trustees of the University of Nebraska 
+        Copyright &#xa9; 2008 University of Nebraska 
         All rights reserved.
         
         Author: Center for Digital Research in the Humanties
